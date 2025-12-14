@@ -1,0 +1,5 @@
+# Dataset & large files
+npz_output/
+*.npz
+*.npy
+data/
